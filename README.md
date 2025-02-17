@@ -16,25 +16,6 @@ Welcome to **PyPracticeArena**! 🎯 This repository contains solutions to basic
 
 ---
 
-## 📂 Repository Structure  
-```
-📦 PyPracticeArena  
- ┣ 📜 LICENSE  
- ┣ 📜 README.md  
- ┣ 📂 problems/  
- ┃ ┣ 📜 problem1.py  
- ┃ ┣ 📜 problem2.py  
- ┃ ┣ 📜 ...  
- ┗ 📂 solutions/  
-   ┣ 📜 solution1.py  
-   ┣ 📜 solution2.py  
-   ┗ 📜 ...
-```  
-- `problems/` → Contains problem statements.  
-- `solutions/` → Contains Python solutions with explanations.  
-
----
-
 ## 🛠 Technologies Used  
 - Python 3.11🐍  
 - Jupyter Notebook (optional) 📓  
